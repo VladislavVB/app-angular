@@ -4,7 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
 import { PostComponent } from './post/post.component';
 import { Post2Component } from './post2/post2.component';
-import { Post3Component } from './post3/post3.component'
+import { Post3Component } from './post3/post3.component';
 
 @NgModule({
   declarations: [
